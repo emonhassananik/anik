@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://emonhassananik.github.io/anik-portfolio/sitemap.xml
